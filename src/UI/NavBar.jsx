@@ -6,7 +6,7 @@ function Navbar() {
     <nav className="w-full top-0 left-0 z-50 bg-gradient-to-r from-blue-500 to-blue-700 text-white shadow-md">
       <div className="container mx-auto flex justify-between items-center p-5">
         <div className="flex items-center text-xl font-bold">
-          <img src="assets\MoneyVerse.png" width={"10%"} height={"10%"} />
+          <img src="assets\MoneyVerse.png" width={"11%"} height={"11%"} />
           MoneyVerse
         </div>
         <div className="space-x-6 hidden md:flex">

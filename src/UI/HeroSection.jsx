@@ -33,7 +33,7 @@ function HeroSection() {
           style={{ marginTop: "50px" }}
           className="bg-yellow-400  text-black  py-3 px-8 rounded-full text-lg font-semibold shadow-lg hover:bg-yellow-300"
         >
-          <a href="public\MoneyVerse.apk">Download Now</a>
+          <a href="MoneyVerse.apk">Download Now</a>
         </motion.button>
       </div>
     </section>

@@ -4,6 +4,7 @@ import HeroSection from "./UI/HeroSection";
 import HowItWorksSection from "./UI/HowItWorks";
 import FeaturesSection from "./UI/FeatureSection";
 import Footer from "./UI/Footer";
+import "@fortawesome/fontawesome-free/css/all.min.css";
 
 function App() {
   return (

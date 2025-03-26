@@ -2,7 +2,7 @@ function Footer() {
   return (
     <footer className="bg-blue-700 text-white py-8">
       <div className="container mx-auto text-center">
-        <p className="mb-4">&copy; 2025 EarnEasy. All Rights Reserved.</p>
+        <p className="mb-4">&copy; 2025 MoneyVerse. All Rights Reserved.</p>
         <div className="space-x-6">
           <a href="#" className="hover:text-yellow-400">
             Privacy Policy

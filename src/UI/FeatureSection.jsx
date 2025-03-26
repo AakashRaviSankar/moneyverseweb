@@ -5,7 +5,7 @@ function FeaturesSection() {
     <section id="features" className="bg-white py-20">
       <div className="container mx-auto text-center">
         <h2 className="text-3xl font-bold text-black mb-10">
-          How EarnEasy Works
+          How MoneyVerse Works
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {["Complete Tasks", "Get Instant Rewards", "Cash Out Easily"].map(
